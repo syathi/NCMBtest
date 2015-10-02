@@ -1,0 +1,27 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "dependencies": {
+    "localStorage": "^1.0.3",
+    "ncmb": "^2.0.0",
+    "form-data": "^0.2.0"
+  },
+  "devDependencies": {
+    "ncmb": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syathi/NCMBtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syathi/NCMBtest/issues"
+  },
+  "homepage": "https://github.com/syathi/NCMBtest#readme"
+}
